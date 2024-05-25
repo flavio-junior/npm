@@ -86,3 +86,18 @@ npm install latest-version
 ```
 npm update
 ```
+
+**Adicionar pacote de forma global:**
+```
+npm i -g node-sass
+```
+
+**Pacote global:**
+```
+npm uninstall -g node-sass
+```
+
+**Reutilizar pacote local, global ou baixar no servidor do npm:**
+```
+npx node-sass
+```
