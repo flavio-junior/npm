@@ -62,3 +62,27 @@ Remove-Item -Recurse -Force ./node_modules
 ```
 npm audit fix --force
 ```
+
+**Limpar cache do npm:**
+```
+npm cache clean --force
+```
+
+**Fazer login no npm:**
+```
+ npm login
+```
+
+**NPM install:**
+```
+npm install
+```
+
+**Baixar última versão do pacote com o npm:**
+```
+npm install latest-version
+```
+**Npm update**
+```
+npm update
+```
